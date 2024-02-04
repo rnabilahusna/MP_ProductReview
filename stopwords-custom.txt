@@ -10,7 +10,6 @@ retinol
 serum
 month
 skincare
-product
 moisturizing
 morning
 sunscreen
@@ -33,8 +32,6 @@ wash
 purchased
 cleanser
 eye cream
-eye cream
-cleanser
 feeling
 review
 routine
@@ -53,3 +50,21 @@ dry
 day
 makeup
 smell
+facial
+bit
+wrinkle
+scent
+bought
+people
+daily
+moisturizers
+stuff
+issue
+pore
+scar
+noticed
+container
+puffiness
+easily
+bag
+
