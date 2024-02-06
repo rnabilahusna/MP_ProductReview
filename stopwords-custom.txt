@@ -6,6 +6,7 @@ bag
 bit
 body
 bottle
+box
 bought
 brand
 care
@@ -20,11 +21,13 @@ dark circle
 day
 description
 dermatologies
+dermatologist
 difference
 dry
 drying
 eye
 eye cream
+everyday
 facial
 feel
 feel 
@@ -35,6 +38,7 @@ fine line
 foaming
 fragrance
 gel
+hand
 honestly
 hormonal
 hyaluronic acid
@@ -52,6 +56,7 @@ moisturize
 moisturizes
 moisturized
 moisturizer
+moisturizers
 moisturizing
 month
 morning
@@ -62,6 +67,7 @@ oily
 packaging
 people
 price
+protection
 product
  product
 product 
@@ -73,6 +79,7 @@ replacement
 retinol
 review
 routine
+rub
 scent
 salicylic acid
 sensitive
@@ -81,6 +88,7 @@ skin
 skincare
 smell
 spf
+spread
 started
 stuff
 sun
