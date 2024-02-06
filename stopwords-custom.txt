@@ -1,30 +1,43 @@
+absorb
 acne
-amazon
-apply
+age
+applying
+bag
 bit
 bottle
+bought
 brand
 care
+causing leaf
 cerave
 cleanser
+control
 cream
-day
 daily
-dermatologist
+dark circle
+day
+description
 difference
-dry
+drying
 eye
 eye cream
 facial
 feel
+feel 
  feel
 feeling
+finally
+fine line
+gel
 honestly
+hormonal
 hyaluronic acid
+improvement
 ingredient
+issue
+leave
 lotion
 lot
-leave
 makeup
 moisturize
 moisturizer
@@ -37,12 +50,16 @@ packaging
 price
 product
  product
+product 
 purchased
 pump
+reduce
+replacement
 retinol
 review
 routine
 scent
+salicylic acid
 sensitive
 serum
 skin
@@ -50,10 +67,12 @@ skincare
 smell
 spf
 started
+stuff
+sun
 sunscreen
 texture
 time
 tube
 wash
 week
- week
+wrinkle
