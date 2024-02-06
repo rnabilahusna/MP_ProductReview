@@ -1,22 +1,30 @@
 acne
 amazon
 apply
+bit
 bottle
 brand
+care
 cerave
 cleanser
 cream
 day
+daily
+dermatologist
 difference
 dry
 eye
 eye cream
+facial
 feel
+ feel
 feeling
 honestly
 hyaluronic acid
 ingredient
 lotion
+lot
+leave
 makeup
 moisturize
 moisturizer
@@ -25,13 +33,16 @@ month
 morning
 night
 oil
+packaging
 price
 product
+ product
 purchased
 pump
 retinol
 review
 routine
+scent
 sensitive
 serum
 skin
@@ -45,3 +56,4 @@ time
 tube
 wash
 week
+ week
