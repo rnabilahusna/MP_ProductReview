@@ -6,6 +6,7 @@ bag
 bit
 body
 bottle
+blend
 box
 bought
 brand
@@ -15,6 +16,7 @@ cerave
 cleanser
 clog pore
 control
+container
 cream
 daily
 dark circle
@@ -23,6 +25,7 @@ description
 dermatologies
 dermatologist
 difference
+dispenser
 dry
 drying
 eye
@@ -47,6 +50,7 @@ improvement
 ingredient
 issue
 leave
+leaf
 lotion
 lot
 line
