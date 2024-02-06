@@ -19,6 +19,7 @@ daily
 dark circle
 day
 description
+dermatologies
 difference
 dry
 drying
@@ -44,6 +45,7 @@ issue
 leave
 lotion
 lot
+line
 makeup
 moisture
 moisturize
@@ -64,6 +66,7 @@ product
  product
 product 
 purchased
+puffiness
 pump
 reduce
 replacement
