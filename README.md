@@ -2,7 +2,7 @@
 
 ## Overview
 
-My master project is titled **"Sentiment Analysis of Product Review on E-Commerce Platform"** It was completed as part of my master's degree program at UTM. The project focuses on analyzing how consumers from two cosmetics brands perceive and make choices regarding cosmetics based on the price and brand reputation, that helps the consumers make more informed decisions. This includes the comparison of local, budget-friendly skincare products with well-known expensive products, using sentiment analysis techniques to indicate the consumer sentiment and review.
+My master project is titled **"Sentiment Analysis on Skincare Product Reviews in Amazon Platform"** It was completed as part of my master's degree program at UTM. The project focuses on analyzing how consumers from two cosmetics brands perceive and make choices regarding cosmetics based on the price and brand reputation, that helps the consumers make more informed decisions. This includes the comparison of local, budget-friendly skincare products with well-known expensive products, using sentiment analysis techniques to indicate the consumer sentiment and review.
 
 # Amazon Product Review Scraper
 
