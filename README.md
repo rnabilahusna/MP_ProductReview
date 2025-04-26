@@ -1,26 +1,39 @@
-# My Master Project
+# 🎓 My Master Project
 
 ## Overview
 
-My master project is titled **"Sentiment Analysis on Skincare Product Reviews in Amazon Platform"** It was completed as part of my master's degree program at UTM. The project focuses on analyzing how consumers from two cosmetics brands perceive and make choices regarding cosmetics based on the price and brand reputation, that helps the consumers make more informed decisions. This includes the comparison of local, budget-friendly skincare products with well-known expensive products, using sentiment analysis techniques to indicate the consumer sentiment and review.
+My master project is titled **"Sentiment Analysis on Skincare Product Reviews in Amazon Platform"**.  
+It was completed as part of my Master's degree program at **Universiti Teknologi Malaysia (UTM)** under the **Faculty of Computing**.  
 
-# Amazon Product Review Scraper
+The project focuses on analyzing how consumers from two cosmetics brands perceive and make choices regarding cosmetics based on factors like **price** and **brand reputation**.  
+The objective is to help consumers make more **informed purchasing decisions** by understanding general sentiment trends.  
 
-This is a Python script for scraping product reviews from Amazon. 
+This includes a comparison between **local, budget-friendly skincare products** and **well-known, expensive products**, using **sentiment analysis techniques** to categorize and indicate the overall consumer sentiment reflected in product reviews.
 
-:sparkles: **Project Description**
+---
 
-This project collects and analyzes product reviews on Amazon to gain insights into customer feedback, product ratings, and trends? This project is a web scraping tool that allows you to do just that. By providing a product name and ID, you can automatically retrieve and store Amazon product reviews in a CSV file for further analysis.
+# 🛒 Amazon Product Review Scraper
 
-:heavy_check_mark: **Prerequisites**
+This is a **Python script** for scraping product reviews from Amazon.
 
-Before using the script, ensure to have the following libraries installed:
+## ✨ Project Description
 
-- [Selenium](https://pypi.org/project/selenium/)
+This project collects and analyzes product reviews on Amazon to gain insights into **customer feedback**, **product ratings**, and **trends**.  
+It serves as a **web scraping tool** that allows automated retrieval and storage of Amazon product reviews in a **CSV** file for further sentiment analysis.  
+
+By providing a **product name** and **ID**, users can easily scrape reviews, which are then processed and cleaned for downstream tasks like **Natural Language Processing (NLP)** and **machine learning modeling**.
+
+---
+
+## ✅ Prerequisites
+
+Before using the script, ensure you have the following libraries installed:
+
 - [BeautifulSoup4](https://pypi.org/project/beautifulsoup4)
-- [webdriver_manager](https://pypi.org/project/webdriver-manager)
+- [requests](https://pypi.org/project/requests)
+- [pandas](https://pypi.org/project/pandas)
 
 You can install these libraries using `pip`:
 
 ```bash
-pip install selenium beautifulsoup4 webdriver_manager
+pip install beautifulsoup4 requests pandas
